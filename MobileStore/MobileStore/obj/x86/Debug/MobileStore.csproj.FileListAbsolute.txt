@@ -1,0 +1,28 @@
+c:\users\student\documents\visual studio 2010\Projects\MobileStore\MobileStore\bin\Debug\MobileStore.exe
+c:\users\student\documents\visual studio 2010\Projects\MobileStore\MobileStore\bin\Debug\MobileStore.pdb
+c:\users\student\documents\visual studio 2010\Projects\MobileStore\MobileStore\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2010\Projects\MobileStore\MobileStore\obj\x86\Debug\MobileStore.Form1.resources
+c:\users\student\documents\visual studio 2010\Projects\MobileStore\MobileStore\obj\x86\Debug\MobileStore.Menu.resources
+c:\users\student\documents\visual studio 2010\Projects\MobileStore\MobileStore\obj\x86\Debug\MobileStore.Properties.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\MobileStore\MobileStore\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\student\documents\visual studio 2010\Projects\MobileStore\MobileStore\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\student\documents\visual studio 2010\Projects\MobileStore\MobileStore\obj\x86\Debug\MobileStore.exe
+c:\users\student\documents\visual studio 2010\Projects\MobileStore\MobileStore\obj\x86\Debug\MobileStore.pdb
+C:\Users\student\documents\visual studio 2010\Projects\MobileStore\MobileStore\obj\x86\Debug\MobileStore.billing.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\MobileStore\MobileStore\obj\x86\Debug\MobileStore.add_stock.resources
+C:\MobileStore\MobileStore\obj\x86\Debug\MobileStore.exe
+C:\MobileStore\MobileStore\obj\x86\Debug\MobileStore.pdb
+C:\MobileStore\MobileStore\bin\Debug\MobileStore.exe
+C:\MobileStore\MobileStore\bin\Debug\MobileStore.pdb
+C:\MobileStore\MobileStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MobileStore\MobileStore\obj\x86\Debug\MobileStore.add_stock.resources
+C:\MobileStore\MobileStore\obj\x86\Debug\MobileStore.billing.resources
+C:\MobileStore\MobileStore\obj\x86\Debug\MobileStore.Form1.resources
+C:\MobileStore\MobileStore\obj\x86\Debug\MobileStore.Menu.resources
+C:\MobileStore\MobileStore\obj\x86\Debug\MobileStore.Properties.Resources.resources
+C:\MobileStore\MobileStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MobileStore\MobileStore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\MobileStore\MobileStore\bin\Debug\MobileStore.exe.config
+C:\MobileStore\MobileStore\obj\x86\Debug\MobileStore.ViewStoc.resources
+C:\MobileStore\MobileStore\obj\x86\Debug\MobileStore.Pay.resources
+C:\MobileStore\MobileStore\obj\x86\Debug\MobileStore.Form2.resources
